@@ -1,0 +1,9 @@
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\bin\Debug\Algorithm_Visualizer.exe.config
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\bin\Debug\Algorithm_Visualizer.exe
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\bin\Debug\Algorithm_Visualizer.pdb
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.Form1.resources
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.Properties.Resources.resources
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.csproj.GenerateResource.cache
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.exe
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.pdb
+D:\Applications\Algorithm_Visualizer\Algorithm_Visualizer\obj\Debug\Algorithm_Visualizer.csprojAssemblyReference.cache

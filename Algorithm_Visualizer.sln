@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_Visualizer", "Algorithm_Visualizer\Algorithm_Visualizer.csproj", "{368E3DF1-186A-4D5F-B60B-43F6F029A39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368E3DF1-186A-4D5F-B60B-43F6F029A39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368E3DF1-186A-4D5F-B60B-43F6F029A39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368E3DF1-186A-4D5F-B60B-43F6F029A39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368E3DF1-186A-4D5F-B60B-43F6F029A39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29FDC5A-D94D-4074-A0BC-8465AA6EE478}
+	EndGlobalSection
+EndGlobal
